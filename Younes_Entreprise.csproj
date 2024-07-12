@@ -1,0 +1,628 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3ECC1E65-94F4-46ED-B93B-CFFD2BA99829}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Younes_Entreprise</RootNamespace>
+    <AssemblyName>Younes_Entreprise</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Bunifu.Licensing, Version=3.2.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b" />
+    <Reference Include="Bunifu.UI.WinForms.1.5.3, Version=1.5.3.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Bunifu.UI.WinForms.1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>Bunifu UI WinForms v4.1.1\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCheckBox">
+      <HintPath>Bunifu UI WinForms v4.1.1\Bunifu.UI.WinForms.BunifuCheckBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDataGridView">
+      <HintPath>Bunifu UI WinForms v4.1.1\Bunifu.UI.WinForms.BunifuDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDropdown">
+      <HintPath>Bunifu UI WinForms v4.1.1\Bunifu.UI.WinForms.BunifuDropdown.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGradientPanel">
+      <HintPath>Bunifu UI WinForms v4.1.1\Bunifu.UI.WinForms.BunifuGradientPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGroupBox">
+      <HintPath>Bunifu UI WinForms v4.1.1\Bunifu.UI.WinForms.BunifuGroupBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuImageButton">
+      <HintPath>Bunifu UI WinForms v4.1.1\Bunifu.UI.WinForms.BunifuImageButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox">
+      <HintPath>Bunifu UI WinForms v4.1.1\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
+      <HintPath>Bunifu UI WinForms v4.1.1\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FontAwesome.Sharp, Version=5.15.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\FontAwesome.Sharp.5.15.3\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>packages\LiveCharts.WinForms.0.9.7.1\lib\net45\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlertForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlertForm.Designer.cs">
+      <DependentUpon>AlertForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnonymCommandeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnonymCommandeForm.Designer.cs">
+      <DependentUpon>AnonymCommandeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="boncommande.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>boncommande.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bonlivraison.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bonlivraison.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CategorieForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CategorieForm.Designer.cs">
+      <DependentUpon>CategorieForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePasswordForm.Designer.cs">
+      <DependentUpon>ChangePasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Devis.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Devis.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ManageEmpGridviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageEmpGridviewForm.Designer.cs">
+      <DependentUpon>ManageEmpGridviewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientGridviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientGridviewForm.Designer.cs">
+      <DependentUpon>ClientGridviewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateCustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateCustomerForm.Designer.cs">
+      <DependentUpon>CreateCustomerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateEmployeeForm.Designer.cs">
+      <DependentUpon>CreateEmployeeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateProductForm.Designer.cs">
+      <DependentUpon>CreateProductForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateSupplierForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateSupplierForm.Designer.cs">
+      <DependentUpon>CreateSupplierForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateUserForm.Designer.cs">
+      <DependentUpon>CreateUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DailyOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DailyOrderForm.Designer.cs">
+      <DependentUpon>DailyOrderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeesGridviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeesGridviewForm.Designer.cs">
+      <DependentUpon>EmployeesGridviewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="facturecommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="facturecommande.Designer.cs">
+      <DependentUpon>facturecommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="facture_commande.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>facture_commande.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="facture_dataset.cs">
+      <DependentUpon>facture_dataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="facture_dataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>facture_dataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ManageEmployeesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageEmployeesForm.Designer.cs">
+      <DependentUpon>ManageEmployeesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewStockForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewStockForm.Designer.cs">
+      <DependentUpon>NewStockForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NombreEnLettres.cs" />
+    <Compile Include="OrdersGridviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrdersGridviewForm.Designer.cs">
+      <DependentUpon>OrdersGridviewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintByCategory.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PrintByCategory.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ProductGridviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductGridviewForm.Designer.cs">
+      <DependentUpon>ProductGridviewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateOrderForm.Designer.cs">
+      <DependentUpon>CreateOrderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connexion.cs" />
+    <Compile Include="DashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashboardForm.Designer.cs">
+      <DependentUpon>DashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfitGridviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfitGridviewForm.Designer.cs">
+      <DependentUpon>ProfitGridviewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="StockGridviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockGridviewForm.Designer.cs">
+      <DependentUpon>StockGridviewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentEmpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentEmpForm.Designer.cs">
+      <DependentUpon>PaymentEmpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockGridviewForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockGridviewForm2.Designer.cs">
+      <DependentUpon>StockGridviewForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierGridviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierGridviewForm.Designer.cs">
+      <DependentUpon>SupplierGridviewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsersHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersHistoryForm.Designer.cs">
+      <DependentUpon>UsersHistoryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UtilisateurGridviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UtilisateurGridviewForm.Designer.cs">
+      <DependentUpon>UtilisateurGridviewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view.Designer.cs">
+      <DependentUpon>view.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnonymCommandeForm.resx">
+      <DependentUpon>AnonymCommandeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="boncommande.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>boncommande.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bonlivraison.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>bonlivraison.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlertForm.resx">
+      <DependentUpon>AlertForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CategorieForm.resx">
+      <DependentUpon>CategorieForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePasswordForm.resx">
+      <DependentUpon>ChangePasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Devis.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Devis.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageEmpGridviewForm.resx">
+      <DependentUpon>ManageEmpGridviewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyOrderForm.resx">
+      <DependentUpon>DailyOrderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientGridviewForm.resx">
+      <DependentUpon>ClientGridviewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateCustomerForm.resx">
+      <DependentUpon>CreateCustomerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateEmployeeForm.resx">
+      <DependentUpon>CreateEmployeeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateProductForm.resx">
+      <DependentUpon>CreateProductForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateSupplierForm.resx">
+      <DependentUpon>CreateSupplierForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateUserForm.resx">
+      <DependentUpon>CreateUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeesGridviewForm.resx">
+      <DependentUpon>EmployeesGridviewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facturecommande.resx">
+      <DependentUpon>facturecommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facture_commande.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>facture_commande.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageEmployeesForm.resx">
+      <DependentUpon>ManageEmployeesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewStockForm.resx">
+      <DependentUpon>NewStockForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrdersGridviewForm.resx">
+      <DependentUpon>OrdersGridviewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintByCategory.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PrintByCategory.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductGridviewForm.resx">
+      <DependentUpon>ProductGridviewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateOrderForm.resx">
+      <DependentUpon>CreateOrderForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashboardForm.resx">
+      <DependentUpon>DashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfitGridviewForm.resx">
+      <DependentUpon>ProfitGridviewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockGridviewForm.resx">
+      <DependentUpon>StockGridviewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentEmpForm.resx">
+      <DependentUpon>PaymentEmpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockGridviewForm2.resx">
+      <DependentUpon>StockGridviewForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierGridviewForm.resx">
+      <DependentUpon>SupplierGridviewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersHistoryForm.resx">
+      <DependentUpon>UsersHistoryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UtilisateurGridviewForm.resx">
+      <DependentUpon>UtilisateurGridviewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view.resx">
+      <DependentUpon>view.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="facture_dataset.xsc">
+      <DependentUpon>facture_dataset.xsd</DependentUpon>
+    </None>
+    <None Include="facture_dataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>facture_dataset.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="facture_dataset.xss">
+      <DependentUpon>facture_dataset.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\auto_serv.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\user_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\password_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\x_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\xx_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\minimize_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\minimize_window_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\xxx_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\menu_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\eye_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\combo_chart_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\team_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\filled_circle_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\filled_circle_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\blue64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\green64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\red64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\dropbox_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\shopping_cart_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\check_dollar_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\dropbox_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\warning_shield_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\dropboxblack_px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\dashboard_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\shutdown_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\shutdown_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\maximize_window_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\maximize_windows_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\invisible_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\minus_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\mminus_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\data_backup_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\data_backup2_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\activity_history_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,760 @@
+C:\Users\widad\source\repos\Younes_Entreprise\bin\Debug\Younes_Entreprise.exe.config
+C:\Users\widad\source\repos\Younes_Entreprise\bin\Debug\Younes_Entreprise.exe
+C:\Users\widad\source\repos\Younes_Entreprise\bin\Debug\Younes_Entreprise.pdb
+C:\Users\widad\source\repos\Younes_Entreprise\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\widad\source\repos\Younes_Entreprise\obj\Debug\Younes_Entreprise.csprojAssemblyReference.cache
+C:\Users\widad\source\repos\Younes_Entreprise\obj\Debug\Younes_Entreprise.Properties.Resources.resources
+C:\Users\widad\source\repos\Younes_Entreprise\obj\Debug\Younes_Entreprise.csproj.GenerateResource.cache
+C:\Users\widad\source\repos\Younes_Entreprise\obj\Debug\Younes_Entreprise.csproj.CoreCompileInputs.cache
+C:\Users\widad\source\repos\Younes_Entreprise\obj\Debug\Younes_Entreprise.csproj.CopyComplete
+C:\Users\widad\source\repos\Younes_Entreprise\obj\Debug\Younes_Entreprise.exe
+C:\Users\widad\source\repos\Younes_Entreprise\obj\Debug\Younes_Entreprise.pdb
+C:\Users\widad\source\repos\Younes_Entreprise\obj\Debug\Younes_Entreprise.exe.licenses
+C:\Users\widad\source\repos\Younes_Entreprise\obj\Debug\Younes_Entreprise.login.resources
+C:\Users\widad\source\repos\Younes_Entreprise\bin\Debug\LiveCharts.dll
+C:\Users\widad\source\repos\Younes_Entreprise\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\widad\source\repos\Younes_Entreprise\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\widad\source\repos\Younes_Entreprise\bin\Debug\LiveCharts.pdb
+C:\Users\widad\source\repos\Younes_Entreprise\bin\Debug\LiveCharts.xml
+C:\Users\widad\source\repos\Younes_Entreprise\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\widad\source\repos\Younes_Entreprise\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\widad\source\repos\Younes_Entreprise\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\widad\source\repos\Younes_Entreprise\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\widad\source\repos\Younes_Entreprise\obj\Debug\Younes_Entreprise.Categories.resources
+C:\Users\widad\source\repos\Younes_Entreprise\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\widad\source\repos\Younes_Entreprise\obj\Debug\Younes_Entreprise.MainFrm.resources
+C:\Users\widad\source\repos\Younes_Entreprise\obj\Debug\Younes_Entreprise.Dashboard.resources
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\Younes_Entreprise.exe.config
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\Younes_Entreprise.exe
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\Younes_Entreprise.pdb
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\LiveCharts.dll
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\LiveCharts.pdb
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\LiveCharts.xml
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.Login.resources
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.Properties.Resources.resources
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.GenerateResource.cache
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.exe.licenses
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.CoreCompileInputs.cache
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.CopyComplete
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.exe
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.pdb
+C:\Users\anair\source\Inventory_managment\bin\Debug\Younes_Entreprise.exe.config
+C:\Users\anair\source\Inventory_managment\bin\Debug\Younes_Entreprise.exe
+C:\Users\anair\source\Inventory_managment\bin\Debug\Younes_Entreprise.pdb
+C:\Users\anair\source\Inventory_managment\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\anair\source\Inventory_managment\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\anair\source\Inventory_managment\bin\Debug\LiveCharts.dll
+C:\Users\anair\source\Inventory_managment\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\anair\source\Inventory_managment\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\anair\source\Inventory_managment\bin\Debug\LiveCharts.pdb
+C:\Users\anair\source\Inventory_managment\bin\Debug\LiveCharts.xml
+C:\Users\anair\source\Inventory_managment\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\anair\source\Inventory_managment\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\anair\source\Inventory_managment\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\anair\source\Inventory_managment\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\anair\source\Inventory_managment\obj\Debug\Younes_Entreprise.csprojAssemblyReference.cache
+C:\Users\anair\source\Inventory_managment\obj\Debug\Younes_Entreprise.Categories.resources
+C:\Users\anair\source\Inventory_managment\obj\Debug\Younes_Entreprise.Dashboard.resources
+C:\Users\anair\source\Inventory_managment\obj\Debug\Younes_Entreprise.Login.resources
+C:\Users\anair\source\Inventory_managment\obj\Debug\Younes_Entreprise.MainFrm.resources
+C:\Users\anair\source\Inventory_managment\obj\Debug\Younes_Entreprise.Properties.Resources.resources
+C:\Users\anair\source\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.GenerateResource.cache
+C:\Users\anair\source\Inventory_managment\obj\Debug\Younes_Entreprise.exe.licenses
+C:\Users\anair\source\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.CoreCompileInputs.cache
+C:\Users\anair\source\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.CopyComplete
+C:\Users\anair\source\Inventory_managment\obj\Debug\Younes_Entreprise.exe
+C:\Users\anair\source\Inventory_managment\obj\Debug\Younes_Entreprise.pdb
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.MainForm.resources
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.CategorieForm.resources
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.DashboardForm.resources
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.AdminForm.resources
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.ChangePasswordForm.resources
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.CreateUserForm.resources
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.UtilisateurGridviewForm.resources
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.ClientGridviewForm.resources
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.CreateCustomerForm.resources
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.CreateEmplyeeForm.resources
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.CreateSupplierForm.resources
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.SupplierGridviewForm.resources
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.CreateProductForm.resources
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.ProductGridviewForm.resources
+C:\Users\widad\source\repos\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.EmployeesGridviewForm.resources
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.NewStockForm.resources
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.CreateOrderForm.resources
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.ManageEmployeesForm.resources
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.OrdersGridviewForm.resources
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.StockGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\Younes_Entreprise.exe.config
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\Younes_Entreprise.exe
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\Younes_Entreprise.pdb
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\LiveCharts.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\LiveCharts.pdb
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\LiveCharts.xml
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.csprojAssemblyReference.cache
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.AdminForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.CategorieForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.ChangePasswordForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.ClientFacturationForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.ClientDashForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.ClientGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.CreateCustomerForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.CreateEmplyeeForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.CreateProductForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.CreateSupplierForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.CreateUserForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.EmployeesGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.ManageEmployeesForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.NewStockForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.OrderDetailsForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.OrdersGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.ProductGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.CreateOrderForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.DashboardForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.Login.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.MainForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.Properties.Resources.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.StockGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.SupplierFactureForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.SupplierGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.UtilisateurGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.GenerateResource.cache
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.exe.licenses
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.CoreCompileInputs.cache
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.CopyComplete
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.exe
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.pdb
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\stdole.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\anair\OneDrive\Images\Screenshots\Inventory_managment\obj\Debug\Younes_Entreprise.facturecommande.resources
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.facturecommande.resources
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\stdole.dll
+C:\Users\widad\Source\Repos\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.AlertForm.resources
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.view.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.csprojAssemblyReference.cache
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.AdminForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.AlertForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.CategorieForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.ChangePasswordForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.ClientDashForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.ClientGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.CreateCustomerForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.CreateEmplyeeForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.CreateProductForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.CreateSupplierForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.CreateUserForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.EmployeesGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.facturecommande.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.ManageEmployeesForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.NewStockForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.OrderDetailsForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.OrdersGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.ProductGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.CreateOrderForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.DashboardForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.Login.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.MainForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.Properties.Resources.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.StockGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.SupplierGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.UtilisateurGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.view.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.GenerateResource.cache
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.exe.licenses
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.CoreCompileInputs.cache
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.exe
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.pdb
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\Younes_Entreprise.exe.config
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\Younes_Entreprise.exe
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\Younes_Entreprise.pdb
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\LiveCharts.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\stdole.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\LiveCharts.pdb
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\LiveCharts.xml
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.CopyComplete
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.ManageEmpGridviewForm.resources
+C:\Users\widad\source\repos\Inventory_managment\obj\Debug\Younes_Entreprise.PaymentEmpForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.ManageEmpGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\wifi hack\Inventory_managment\obj\Debug\Younes_Entreprise.PaymentEmpForm.resources
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.DailyOrderForm.resources
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.catform.resources
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.csprojAssemblyReference.cache
+C:\Users\widad\Source\Repos\Inventory_managment\obj\Debug\Younes_Entreprise.StockGridviewForm2.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\Younes_Entreprise.exe.config
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\Younes_Entreprise.exe
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\Younes_Entreprise.pdb
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\stdole.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.pdb
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.xml
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.AdminForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.AlertForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.CategorieForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.ChangePasswordForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.ManageEmpGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.DailyOrderForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.ClientGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.CreateCustomerForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.CreateEmplyeeForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.CreateProductForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.CreateSupplierForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.CreateUserForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.EmployeesGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.facturecommande.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.ManageEmployeesForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.NewStockForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.OrdersGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.ProductGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.CreateOrderForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.DashboardForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.Login.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.MainForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.Properties.Resources.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.StockGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.PaymentEmpForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.StockGridviewForm2.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.SupplierGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.UtilisateurGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.view.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.GenerateResource.cache
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.exe.licenses
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.CoreCompileInputs.cache
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.CopyComplete
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.exe
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.pdb
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.csprojAssemblyReference.cache
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\Younes_Entreprise.exe.config
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\Younes_Entreprise.exe
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\Younes_Entreprise.pdb
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\stdole.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.pdb
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.xml
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.AdminForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.AlertForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.CategorieForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.ChangePasswordForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.ManageEmpGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.DailyOrderForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.ClientGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.CreateCustomerForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.CreateEmplyeeForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.CreateProductForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.CreateSupplierForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.CreateUserForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.EmployeesGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.facturecommande.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.ManageEmployeesForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.NewStockForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.OrdersGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.ProductGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.CreateOrderForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.DashboardForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.Login.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.MainForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.Properties.Resources.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.StockGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.PaymentEmpForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.StockGridviewForm2.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.SupplierGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.UtilisateurGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.view.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.GenerateResource.cache
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.exe.licenses
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.CoreCompileInputs.cache
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.CopyComplete
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.exe
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.pdb
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.UsersHistoryForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.AdminForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.AlertForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.CategorieForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.ChangePasswordForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.ManageEmpGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.DailyOrderForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.ClientGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.CreateCustomerForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.CreateEmplyeeForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.CreateProductForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.CreateSupplierForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.CreateUserForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.EmployeesGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.facturecommande.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.ManageEmployeesForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.NewStockForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.OrdersGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.ProductGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.CreateOrderForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.DashboardForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.Login.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.MainForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.StockGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.PaymentEmpForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.StockGridviewForm2.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.SupplierGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.UsersHistoryForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.UtilisateurGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.view.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.GenerateResource.cache
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.exe
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.pdb
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\Younes_Entreprise.exe.config
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\Younes_Entreprise.exe
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\Younes_Entreprise.pdb
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\LiveCharts.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\stdole.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\LiveCharts.pdb
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\LiveCharts.xml
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.Properties.Resources.resources
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.exe.licenses
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.CoreCompileInputs.cache
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.csproj.CopyComplete
+C:\Users\anair\OneDrive\Images\Feedback\Inventory_managment\obj\Debug\Younes_Entreprise.csprojAssemblyReference.cache
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.AnonymCommandeForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.ProfitGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.csprojAssemblyReference.cache
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.AnonymCommandeForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.ProfitGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Nouveau dossier\Inventory_managment\obj\Debug\Younes_Entreprise.UsersHistoryForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\Younes_Entreprise.exe.config
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\Younes_Entreprise.exe
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\Younes_Entreprise.pdb
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\LiveCharts.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\stdole.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\LiveCharts.pdb
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\LiveCharts.xml
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.AdminForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.AnonymCommandeForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.AlertForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.CategorieForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.ChangePasswordForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.ManageEmpGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.DailyOrderForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.ClientGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.CreateCustomerForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.CreateEmplyeeForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.CreateProductForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.CreateSupplierForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.CreateUserForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.EmployeesGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.facturecommande.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.ManageEmployeesForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.NewStockForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.OrdersGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.ProductGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.CreateOrderForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.DashboardForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.Login.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.MainForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.ProfitGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.Properties.Resources.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.StockGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.PaymentEmpForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.StockGridviewForm2.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.SupplierGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.UsersHistoryForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.UtilisateurGridviewForm.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.view.resources
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.csproj.GenerateResource.cache
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.exe.licenses
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.csproj.CoreCompileInputs.cache
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.csproj.CopyComplete
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.exe
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.pdb
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\Younes_Entreprise.exe.config
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\Younes_Entreprise.exe
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\Younes_Entreprise.pdb
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\LiveCharts.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\stdole.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\LiveCharts.pdb
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\LiveCharts.xml
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.csprojAssemblyReference.cache
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.AdminForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.AnonymCommandeForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.AlertForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.CategorieForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.ChangePasswordForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.ManageEmpGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.DailyOrderForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.ClientGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.CreateCustomerForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.CreateEmplyeeForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.CreateProductForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.CreateSupplierForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.CreateUserForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.EmployeesGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.facturecommande.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.ManageEmployeesForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.NewStockForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.OrdersGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.ProductGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.CreateOrderForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.DashboardForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.Login.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.MainForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.ProfitGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.Properties.Resources.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.StockGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.PaymentEmpForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.StockGridviewForm2.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.SupplierGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.UsersHistoryForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.UtilisateurGridviewForm.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.view.resources
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.csproj.GenerateResource.cache
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.exe.licenses
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.csproj.CoreCompileInputs.cache
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.csproj.CopyComplete
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.exe
+C:\Users\anair\OneDrive\Images\Camera Roll\Auto_Serv\obj\Debug\Younes_Entreprise.pdb
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\Younes_Entreprise.exe.config
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\Younes_Entreprise.exe
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\Younes_Entreprise.pdb
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\LiveCharts.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\stdole.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\LiveCharts.pdb
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\LiveCharts.xml
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.csprojAssemblyReference.cache
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.AdminForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.AnonymCommandeForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.AlertForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.CategorieForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.ChangePasswordForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.ManageEmpGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.DailyOrderForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.ClientGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.CreateCustomerForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.CreateEmplyeeForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.CreateProductForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.CreateSupplierForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.CreateUserForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.EmployeesGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.facturecommande.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.ManageEmployeesForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.NewStockForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.OrdersGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.ProductGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.CreateOrderForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.DashboardForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.Login.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.MainForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.ProfitGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.Properties.Resources.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.StockGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.PaymentEmpForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.StockGridviewForm2.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.SupplierGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.UsersHistoryForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.UtilisateurGridviewForm.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.view.resources
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.csproj.GenerateResource.cache
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.exe.licenses
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.csproj.CoreCompileInputs.cache
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.csproj.CopyComplete
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.exe
+C:\Users\anair\OneDrive\Desktop\Auto_Serv\obj\Debug\Younes_Entreprise.pdb
+C:\Users\widad\OneDrive\Bureau\New folder\Inventory_managment11\obj\Debug\Younes_Entreprise.csprojAssemblyReference.cache
